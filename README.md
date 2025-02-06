@@ -1,4 +1,4 @@
-Hi 👋 My name is Anna Politova
+Hi My name is Anna Politova
 ==============================
 
 Frontend-developer
